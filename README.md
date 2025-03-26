@@ -15,6 +15,3 @@ I'm **Pernille Brams**, a Cognitive Science MSc. student and RA at Aarhus Univer
 ---
 
 Feel free to reach out for collaborations, ideas, or just a friendly chat on all things Cognitive Science & AI!
-
-<!-- Visitor counter -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=PernilleBrams.PernilleBrams)
